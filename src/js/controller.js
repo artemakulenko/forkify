@@ -130,6 +130,4 @@ const init = function () {
   addRecipeView.addHandlerUpload(controlAddRecipe);
 };
 
-console.log('just testing if netlify build it');
-
 init();
